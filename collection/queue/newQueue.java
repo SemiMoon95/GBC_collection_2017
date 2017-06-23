@@ -7,18 +7,7 @@ package collection.queue;
 
 
 import java.util.*;
-<<<<<<< HEAD
-
 public class newQueue<T extends Comparable<? super T>>{
-	
-	/** 
-	2017_Summer GBC : priority queue
-	@author: semi, harim
-	*/
-=======
-public class newQueue<T extends Comparable<? super T>>{
->>>>>>> f624bb6ede360d25b1cda55b46a7397e0bbf13e4
-
 	private ArrayList<T> queue; /** ArrayList queue: array of elements */
 
 	public newQueue(){
