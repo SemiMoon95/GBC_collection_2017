@@ -68,7 +68,7 @@ public class newMap<K,V>{
 	}
 
 	/**
-	 *return all key datas
+	 *return all key data
 	 *@return ArrayList that have the key datas
 	 */
 	public ArrayList<K> getKey(){
