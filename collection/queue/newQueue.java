@@ -1,12 +1,11 @@
 package collection.queue;
 import java.util.*;
-import collection.queue.data;
+
 public class newQueue<T extends Comparable<? super T>>{
 	
 	/** 
-	* 2017_Summer GBC_priority queue
-	* made by semi, harim
-	--------Man Heap Priority Queue-----------
+	2017_Summer GBC : priority queue
+	@author: semi, harim
 	*/
 
 	private ArrayList<T> queue;
